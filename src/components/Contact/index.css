@@ -1,0 +1,17 @@
+/* Write your CSS code here */
+.contact-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.img-cont {
+  height: 400px;
+  width: 400px;
+}
+
+.head1 {
+  font-size: 30px;
+  color: #551e53;
+}

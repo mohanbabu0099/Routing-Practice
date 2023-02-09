@@ -1,0 +1,17 @@
+/* Write your CSS code here */
+.container1 {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+.heading {
+  color: #6d396b;
+  font-size: 30px;
+}
+
+.img1 {
+  height: 400px;
+  width: 400px;
+}

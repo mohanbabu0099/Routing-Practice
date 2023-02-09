@@ -1,0 +1,17 @@
+/* Write your CSS code here */
+.not-found {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+.head3 {
+  color: #551e53;
+  font-size: 30px;
+}
+
+.not {
+  height: 400px;
+  width: 400px;
+}
